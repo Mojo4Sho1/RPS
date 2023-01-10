@@ -16,6 +16,7 @@ Aishat Oyedeji
 
 ROLES:
 Joseph Caldwell assembled the framework and main.ccp file in order for all other team members to input their respective algorithms.
+Libra Bates put together the Makefile
 Each member is responsible for their own algorithm implementations. 
 
 INSTRUCTIONS:
